@@ -1,5 +1,5 @@
 
-# **O Padrão de arquitetura MVC JavaScprit🔗**
+# **O Padrão de arquitetura MVC JavaScript🔗**
 
 O padrão de arquitetura MVC (Model-View-Controller) é amplamente utilizado no desenvolvimento de aplicações JavaScript. Ele permite uma separação clara de responsabilidades entre os diferentes componentes da aplicação, proporcionando uma estrutura organizada e fácil de manter.
 
@@ -36,7 +36,7 @@ Ao utilizar o padrão MVC, os benefícios incluem:
  
 
 
-## **Conceito Framework JavaScript🔗**
+# **Conceito Framework 'JavaScript🔗**
 ****
 Um framework JavaScript é um conjunto de bibliotecas, ferramentas e convenções que fornecem uma estrutura para o desenvolvimento de aplicações web ou mobile. Ele oferece uma base sólida e abstrai muitos detalhes complexos, permitindo que os desenvolvedores se concentrem na lógica de negócios e nas funcionalidades específicas da aplicação.
 
@@ -60,7 +60,7 @@ _Alguns exemplos populares de frameworks JavaScript são Angular, React, Vue.js,
 
 
 
-### **Biblioteca JavaScript🔗**
+# **Biblioteca JavaScript🔗**
 *****
 
 ![Biblioteca](https://www.lavalldegallinera.org/wp-content/uploads/2022/08/Las-bibliotecas-publicas-no-paran-de-evolucionar-para-ofrecer-un-mejor-servicio-basado-en-la-necesidad-y-en-la-utilidad-1-1000x500.jpg)
