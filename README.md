@@ -1,6 +1,3 @@
-pesquisa com texto, imagens e links de conteúdo (vídeos/artigos)
-
-
 
 # **O Padrão de arquitetura MVC JavaScprit🔗**
 
@@ -73,38 +70,14 @@ Ao utilizar uma biblioteca, os desenvolvedores podem economizar tempo e esforço
 
 Por exemplo, a biblioteca Moment.js é amplamente utilizada para manipulação de datas e horários. Ela fornece uma série de funções para converter, validar, formatar e calcular diferenças entre datas. Em vez de implementar essas funcionalidades manualmente, os desenvolvedores podem simplesmente incluir a biblioteca em seu projeto e usar suas funções para lidar com as operações de data e hora.
 
-- Outro exemplo é a biblioteca Chart.js, que facilita a criação de gráficos interativos. Ela oferece uma variedade de tipos de gráficos, como barras, linhas, pizza, entre outros, além de recursos de personalização e animação. Ao utilizar essa biblioteca, os desenvolvedores podem adicionar facilmente gráficos dinâmicos e visualmente atraentes às suas aplicações, sem precisar escrever todo o código para renderizar os gráficos do zero.
+Outro exemplo é a biblioteca Chart.js, que facilita a criação de gráficos interativos. Ela oferece uma variedade de tipos de gráficos, como barras, linhas, pizza, entre outros, além de recursos de personalização e animação. Ao utilizar essa biblioteca, os desenvolvedores podem adicionar facilmente gráficos dinâmicos e visualmente atraentes às suas aplicações, sem precisar escrever todo o código para renderizar os gráficos do zero.
 
 Existem bibliotecas JavaScript disponíveis para uma ampla gama de finalidades, como manipulação de strings (por exemplo, Voca), animações (por exemplo, mo.js) e criação de interfaces de usuário (por exemplo, React). Cada biblioteca se concentra em um conjunto específico de funcionalidades e fornece uma API consistente e bem documentada para facilitar sua utilização.
 
+![imagem-bibliotecas](https://media.licdn.com/dms/image/D4D12AQF_nn288OyOWA/article-cover_image-shrink_600_2000/0/1681222793597?e=2147483647&v=beta&t=HuedKaguu-Sfv65dRRRdeKaLdOhclPE0K-mKPAPO1XI)
+
+
 No geral, as bibliotecas JavaScript são valiosas porque permitem que os desenvolvedores reutilizem códigos testados e comprovados, economizando tempo, esforço e recursos durante o desenvolvimento de aplicações. Elas oferecem soluções pré-construídas para problemas comuns e ajudam a acelerar o processo de desenvolvimento, além de promover boas práticas e consistência no código.
 
-![imagem-bibliotecas](https://afedigi.com/wp-content/uploads/2022/09/javascript-frameworks.png)
 
 
-
-
-
-
-//CONTINUAR AMANHÃ
-
-
-
-// a diferença
-
-Mas então, qual a diferença entre Framework e Biblioteca?
-Por mais que a gente tenha visto características de framework e biblioteca, ainda assim há confusão, pois nem sempre as funções do software deixa claro a sua natureza. É provável até que não seja nenhum dos dois. Bem como também é comum ver lugares chamando Angular de biblioteca e React de framework, sendo que na verdade é ao contrário.
-
-Antes de tudo, algo que podemos notar além das diferenças já mostradas aqui é que normalmente as bibliotecas são usadas pelos nossos códigos, enquanto os frameworks é quem costumam utilizar os nossos códigos.
-
-Por isso podemos diferenciar React de Angular. Se acaso você já usou os dois verá as seguintes diferenças:
-
-No React nós temos basicamente funções para a criação de componentes e criação de estados. Estamos no controle o tempo todo, nós chamamos as funções do React, podemos decidir qual será a estrutura da nossa aplicação e o fluxo com o qual ela funciona. Se acaso a gente precisar de funcionalidades de roteamento, animações, internacionalização, etc, precisaremos buscar bibliotecas para isso.
-
-
-// diferença
-
-Qual o melhor? Framework ou Biblioteca?
-Podemos concluir que enquanto na biblioteca nós mesmos criamos a base e o fluxo, no framework já temos toda a estrutura pronta para utilizarmos e seguirmos. Mas isso não significa necessariamente que um é melhor do que o outro. São ferramentas diferentes para propósitos diferentes.
-
-Ao passo que no Angular nós já temos toda a estrutura pronta, nos poupando desse trabalho, teremos menos liberdade para certas escolhas. Em contrapartida, no React temos que definir coisas comuns como arquitetura e fluxo, mas teremos mais liberdade de escolher cada biblioteca responsável por cada funcionalidade em nossa aplicação.
